@@ -1,0 +1,2 @@
+date,model_name,model_version,accuracy,auc,prediction_volume
+2025-12-18,Bankruptcy_RF,v1.0,0.9728739002932552,0.9508092286501377,1364

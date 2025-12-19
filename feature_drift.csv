@@ -1,0 +1,96 @@
+date,feature_name,psi,drift_status
+2025-12-18, ROA(C) before interest and depreciation before interest,0.010194480688558829,Healthy
+2025-12-18, ROA(A) before interest and % after tax,0.009273746679470223,Healthy
+2025-12-18, ROA(B) before interest and depreciation after tax,0.012634350852570864,Healthy
+2025-12-18, Operating Gross Margin,0.004382056819907473,Healthy
+2025-12-18, Realized Sales Gross Margin,0.004839342814325946,Healthy
+2025-12-18, Operating Profit Rate,0.004226667176780513,Healthy
+2025-12-18, Pre-tax net Interest Rate,0.010395411854965553,Healthy
+2025-12-18, After-tax net Interest Rate,0.007924426359128826,Healthy
+2025-12-18, Non-industry income and expenditure/revenue,0.018357960002913336,Healthy
+2025-12-18, Continuous interest rate (after tax),0.009480506440019638,Healthy
+2025-12-18, Operating Expense Rate,0.003596721862789278,Healthy
+2025-12-18, Research and development expense rate,0.0013055062740208714,Healthy
+2025-12-18, Cash flow rate,0.017768643578238784,Healthy
+2025-12-18, Interest-bearing debt interest rate,0.004087201921955239,Healthy
+2025-12-18, Tax rate (A),0.007970344306790963,Healthy
+2025-12-18, Net Value Per Share (B),0.009061768645325244,Healthy
+2025-12-18, Net Value Per Share (A),0.008701144984378018,Healthy
+2025-12-18, Net Value Per Share (C),0.009701564109548476,Healthy
+2025-12-18, Persistent EPS in the Last Four Seasons,0.011457798091512306,Healthy
+2025-12-18, Cash Flow Per Share,0.00630825633594311,Healthy
+2025-12-18, Revenue Per Share (Yuan ¥),0.00259911444513167,Healthy
+2025-12-18, Operating Profit Per Share (Yuan ¥),0.006570125472095775,Healthy
+2025-12-18, Per Share Net profit before tax (Yuan ¥),0.014369852828143157,Healthy
+2025-12-18, Realized Sales Gross Profit Growth Rate,0.008584318607738612,Healthy
+2025-12-18, Operating Profit Growth Rate,0.002540649345165581,Healthy
+2025-12-18, After-tax Net Profit Growth Rate,0.006949593455028369,Healthy
+2025-12-18, Regular Net Profit Growth Rate,0.00708360697638182,Healthy
+2025-12-18, Continuous Net Profit Growth Rate,0.006039075596697906,Healthy
+2025-12-18, Total Asset Growth Rate,0.004466298536787351,Healthy
+2025-12-18, Net Value Growth Rate,0.00861472042911456,Healthy
+2025-12-18, Total Asset Return Growth Rate Ratio,0.0044746484026870975,Healthy
+2025-12-18, Cash Reinvestment %,0.008634988248897048,Healthy
+2025-12-18, Current Ratio,0.016278163536228928,Healthy
+2025-12-18, Quick Ratio,0.013138698644202756,Healthy
+2025-12-18, Interest Expense Ratio,0.0055074831834143,Healthy
+2025-12-18, Total debt/Total net worth,0.0048948358307182825,Healthy
+2025-12-18, Debt ratio %,0.0046919922564802935,Healthy
+2025-12-18, Net worth/Assets,0.00466106371201537,Healthy
+2025-12-18, Long-term fund suitability ratio (A),0.01187638230602618,Healthy
+2025-12-18, Borrowing dependency,0.0014412085549912732,Healthy
+2025-12-18, Contingent liabilities/Net worth,0.0015285078873573752,Healthy
+2025-12-18, Operating profit/Paid-in capital,0.00840026378783609,Healthy
+2025-12-18, Net profit before tax/Paid-in capital,0.01249475589769468,Healthy
+2025-12-18, Inventory and accounts receivable/Net value,0.005679589844172617,Healthy
+2025-12-18, Total Asset Turnover,0.010149563926714915,Healthy
+2025-12-18, Accounts Receivable Turnover,0.004800766304335408,Healthy
+2025-12-18, Average Collection Days,0.004536210662937188,Healthy
+2025-12-18, Inventory Turnover Rate (times),0.012164872186142246,Healthy
+2025-12-18, Fixed Assets Turnover Frequency,0.004696499249168218,Healthy
+2025-12-18, Net Worth Turnover Rate (times),0.007278299550683724,Healthy
+2025-12-18, Revenue per person,0.009278406390540417,Healthy
+2025-12-18, Operating profit per person,0.016195115649475893,Healthy
+2025-12-18, Allocation rate per person,0.0025746430502960067,Healthy
+2025-12-18, Working Capital to Total Assets,0.01800859458924654,Healthy
+2025-12-18, Quick Assets/Total Assets,0.013980542473655228,Healthy
+2025-12-18, Current Assets/Total Assets,0.006477637531003908,Healthy
+2025-12-18, Cash/Total Assets,0.0053967492182411475,Healthy
+2025-12-18, Quick Assets/Current Liability,0.00847608090226318,Healthy
+2025-12-18, Cash/Current Liability,0.013411872055721917,Healthy
+2025-12-18, Current Liability to Assets,0.0053779981161707945,Healthy
+2025-12-18, Operating Funds to Liability,0.0038121683496616632,Healthy
+2025-12-18, Inventory/Working Capital,0.009553071753779854,Healthy
+2025-12-18, Inventory/Current Liability,0.0068804050223642615,Healthy
+2025-12-18, Current Liabilities/Liability,0.0024366085905299906,Healthy
+2025-12-18, Working Capital/Equity,0.01528012301633892,Healthy
+2025-12-18, Current Liabilities/Equity,0.004918851441117543,Healthy
+2025-12-18, Long-term Liability to Current Assets,0.002118931761516714,Healthy
+2025-12-18, Retained Earnings to Total Assets,0.004755446285343252,Healthy
+2025-12-18, Total income/Total expense,0.003976470621919222,Healthy
+2025-12-18, Total expense/Assets,0.01186221757520874,Healthy
+2025-12-18, Current Asset Turnover Rate,0.0036425286311759348,Healthy
+2025-12-18, Quick Asset Turnover Rate,0.004720210844112636,Healthy
+2025-12-18, Working capitcal Turnover Rate,0.009674509091663647,Healthy
+2025-12-18, Cash Turnover Rate,0.004664762680344022,Healthy
+2025-12-18, Cash Flow to Sales,0.005198477063582292,Healthy
+2025-12-18, Fixed Assets to Assets,0.01187547529076911,Healthy
+2025-12-18, Current Liability to Liability,0.0024366085905299906,Healthy
+2025-12-18, Current Liability to Equity,0.004918851441117543,Healthy
+2025-12-18, Equity to Long-term Liability,0.011955209919923673,Healthy
+2025-12-18, Cash Flow to Total Assets,0.0038283730490456806,Healthy
+2025-12-18, Cash Flow to Liability,0.0023526306032538627,Healthy
+2025-12-18, CFO to Assets,0.00885026058593026,Healthy
+2025-12-18, Cash Flow to Equity,0.0038020719291017107,Healthy
+2025-12-18, Current Liability to Current Assets,0.016190415092447348,Healthy
+2025-12-18, Liability-Assets Flag,0.0,Healthy
+2025-12-18, Net Income to Total Assets,0.009171518957827042,Healthy
+2025-12-18, Total assets to GNP price,0.00396047655805732,Healthy
+2025-12-18, No-credit Interval,0.0034742655316167955,Healthy
+2025-12-18, Gross Profit to Sales,0.004439433899441708,Healthy
+2025-12-18, Net Income to Stockholder's Equity,0.006234483157385426,Healthy
+2025-12-18, Liability to Equity,0.004575914495816296,Healthy
+2025-12-18, Degree of Financial Leverage (DFL),0.006231677039128588,Healthy
+2025-12-18, Interest Coverage Ratio (Interest expense to EBIT),0.003976203044018816,Healthy
+2025-12-18, Net Income Flag,0.0,Healthy
+2025-12-18, Equity to Liability,0.004691469569913325,Healthy
